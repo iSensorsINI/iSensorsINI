@@ -1,4 +1,4 @@
-# Source code for "Deep Joint Entity Disambiguation with Local Neural Attention"
+# iSensorsINI
 
 [O-E. Ganea and T. Hofmann, full paper @ EMNLP 2017](https://arxiv.org/abs/1704.04920)
 
